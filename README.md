@@ -2,8 +2,6 @@
 
 Check my badge:https://www.credly.com/badges/01e86b96-8bbc-4ccd-9a87-cf6d0b7b536a/public_url
 
-I have completed eight end-to-end, applied data science projects. In each project, I accessed data from files, SQL and NoSQL databases and APIs. I learnt ability to explore and clean data, create functions and ETL pipelines to prepare training sets. I have built machine learning models for supervised and unsupervised learning tasks, and have created visualizations to explain data characteristics and model predictions for non-technical audiences.
-
 List of projects is as follows:
 
 1. HOUSING IN MEXICO: Learners use a dataset of 21,000 properties to determine if real estate prices are influenced more by property size or location. They import and clean data from a CSV file, build data visualizations, and examine the relationship between two variables using correlation. 
