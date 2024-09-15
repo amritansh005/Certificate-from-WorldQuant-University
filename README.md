@@ -1,6 +1,6 @@
 # Certificates-and-My-Achievements
 
-Check my badge:https://www.credly.com/badges/01e86b96-8bbc-4ccd-9a87-cf6d0b7b536a/public_url
+Check my badge: https://www.credly.com/badges/01e86b96-8bbc-4ccd-9a87-cf6d0b7b536a/public_url
 
 List of projects is as follows:
 
